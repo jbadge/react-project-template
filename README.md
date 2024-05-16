@@ -2,6 +2,7 @@
 
 [![React][React.js]][React-url]
 [![TypeScript][Typescript.com]][Typescript-url]
+Put your img shields up top
 
 # Project Title
 
