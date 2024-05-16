@@ -1,12 +1,13 @@
+<!-- # Shields Up Top! -->
+
 [![React][React.js]][React-url]
 [![TypeScript][Typescript.com]][Typescript-url]
-Put your img shields up top
 
 # Project Title
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot.
+<!-- Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot. -->
 
 **Link to project:** http://everyone-loves-seeing-live-demos.com/
 
@@ -16,9 +17,9 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Tech used:** HTML, CSS, JavaScript, Framework of choice
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. Show off your passion and make up for lack of experience, ten fold.
+<!-- Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. Show off your passion and make up for lack of experience, ten fold. -->
 
-## API
+<!-- ## API
 
 ### Request methods
 
@@ -45,17 +46,17 @@ Now that we’ve learned about the anatomy of our endpoints and the different re
 | `POST`   | `/api/posts/28/comments`                                          | Add comment to post #28.                                                                    |
 | `GET`    | `/api/posts/28/comments?status=approved&limit=10&page=4`          | Retrieve page 4 of the comments for post #28 which are approved, with 10 comments per page. |
 | `DELETE` | `/api/posts/28/comments/1987` or `/api/comments/1987`             | Delete comment #1987.                                                                       |
-| `GET`    | `/api/users?active=true&sort=username&direction=asc&search=nodes` | Search for "nodes" in active users, sorted by username ascendingly.                         |
+| `GET`    | `/api/users?active=true&sort=username&direction=asc&search=nodes` | Search for "nodes" in active users, sorted by username ascendingly.                         | -->
 
 ## Optimizations
 
-_(optional)_
+<!-- _(optional)_
 
-Not mandatory, but looks good that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+Not mandatory, but looks good that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews! -->
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those _whoa this is awesome_ or _wow I actually did it!_ moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+<!-- No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those _whoa this is awesome_ or _wow I actually did it!_ moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing. -->
 
 ## Acknowledgements
 
